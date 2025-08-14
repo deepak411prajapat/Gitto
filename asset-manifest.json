@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deepak411prajapat/Gitto.git/static/css/main.f855e6bc.css",
+    "main.js": "/deepak411prajapat/Gitto.git/static/js/main.185359ff.js",
+    "static/js/453.28218bff.chunk.js": "/deepak411prajapat/Gitto.git/static/js/453.28218bff.chunk.js",
+    "index.html": "/deepak411prajapat/Gitto.git/index.html",
+    "main.f855e6bc.css.map": "/deepak411prajapat/Gitto.git/static/css/main.f855e6bc.css.map",
+    "main.185359ff.js.map": "/deepak411prajapat/Gitto.git/static/js/main.185359ff.js.map",
+    "453.28218bff.chunk.js.map": "/deepak411prajapat/Gitto.git/static/js/453.28218bff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.185359ff.js"
+  ]
+}
